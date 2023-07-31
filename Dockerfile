@@ -1,4 +1,4 @@
-FROM ubuntu:22.04
+FROM ubuntu:20.04
 MAINTAINER Yusuf Eka Sayogana <yusufblegoh@gmail.com>
 
 ENV VERSION_TOOLS "8512546"
